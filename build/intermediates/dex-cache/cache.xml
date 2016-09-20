@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_cf558fa7188693e332f25e272fe878cdbfc18745\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e6dc3f994ce0f3f4cceb7b273bbe3d147eca3cfb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_046d97e113ebbfbf392bf757a719f70123cdd5ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_43bab88371138a5ac6d443516f7c5d1ee651f1e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_428ed8663a3a51d9e4bff786e0a85fb4a76a5ce6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_414490bff6f39462a03e105394076e7ed0337cff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_fa0bc774cfe1c5634ec2305939fdfe0557e7fd55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_4321722935d784c89f6bb3e86905224b5783df31\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_98376e5ac3dd70932d93b0916fe4478fdc4737d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_522a50a17cb1f1a8b454cea298f9392f46512ae3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_5c2281a0fd70973a99394332b6c6c54e222dcfc4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="13f105bae3643603b1ac9504493b456c3c9aec0f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fb01153f5e986004bf2651c1eb0cb6746c7faa49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_57f42070cf2fda14c758d09da27d0e56cdbecb4f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e84906db3d103c1b660fc36d07fcff8d0c3abc10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d4909b0effc8b0d62a4e863a83b4e635d1f04e34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e2c0f8b16906fc4ee5c89ac28f2048192e68d143">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_850ad760f195a453abb6f70623050f8360297a42\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_6111abdbe4df00554928709ebc8ade27d3734dee\classes.dex" />
+    </item>
+
+</items>
